@@ -1,0 +1,16 @@
+D:\Project VS CODE Traning\VS CODE DAY 3\bin\Debug\net5.0\VS CODE DAY 3.exe
+D:\Project VS CODE Traning\VS CODE DAY 3\bin\Debug\net5.0\VS CODE DAY 3.deps.json
+D:\Project VS CODE Traning\VS CODE DAY 3\bin\Debug\net5.0\VS CODE DAY 3.runtimeconfig.json
+D:\Project VS CODE Traning\VS CODE DAY 3\bin\Debug\net5.0\VS CODE DAY 3.runtimeconfig.dev.json
+D:\Project VS CODE Traning\VS CODE DAY 3\bin\Debug\net5.0\VS CODE DAY 3.dll
+D:\Project VS CODE Traning\VS CODE DAY 3\bin\Debug\net5.0\ref\VS CODE DAY 3.dll
+D:\Project VS CODE Traning\VS CODE DAY 3\bin\Debug\net5.0\VS CODE DAY 3.pdb
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\VS CODE DAY 3.csprojAssemblyReference.cache
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\VS CODE DAY 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\VS CODE DAY 3.AssemblyInfoInputs.cache
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\VS CODE DAY 3.AssemblyInfo.cs
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\VS CODE DAY 3.csproj.CoreCompileInputs.cache
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\VS CODE DAY 3.dll
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\ref\VS CODE DAY 3.dll
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\VS CODE DAY 3.pdb
+D:\Project VS CODE Traning\VS CODE DAY 3\obj\Debug\net5.0\VS CODE DAY 3.genruntimeconfig.cache
